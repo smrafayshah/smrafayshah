@@ -92,8 +92,8 @@ flowchart LR
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="35%" />
+<img src="https://github-readme-stats.vercel.app/api?username=smrafayshah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrafayshah&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="35%" />
 </div>
 
 ---
@@ -132,11 +132,28 @@ flowchart LR
 
 ## 💼 Experience
 
-- **Co-Founder, GuideXTech** — *Nov 2025–Present, Pakistan* — Building an AI automation agency; delivering automated WhatsApp systems, workflows, and integrations for SMBs, starting with restaurants.
-- **Proprietary Trader, FundingPips** — *Aug 2025–Present, Dubai* — Trading financial markets with disciplined, rules-based execution.
-- **Freelance Web Developer & Digital Marketer** — *Aug 2022–Present, Karachi* — Building WordPress/Shopify sites, running Meta Ads and SEO campaigns, and managing client e-commerce stores.
-- **Social Media Marketing Manager & E-Commerce Owner, WitacoMart** — *Nov 2023–Apr 2024* — Managed store operations and social marketing.
-- **Blogger, Read Upto Infinite** — *Apr 2023–Mar 2024* — Wrote and published content for a US-based blog.
+| 🏢 Role | 📌 Organization | 📅 Period | 🚀 What I Did |
+|:---|:---|:---:|:---|
+| **Co-Founder & AI Automation Engineer** | **GuideXTech** | *Nov 2025 – Present* | Building AI-powered business automation systems, WhatsApp chatbots, custom workflows, and integrations for SMBs. |
+| **Proprietary Trader** | **FundingPips** | *Aug 2025 – Present* | Trading financial markets using disciplined, rules-based strategies with a strong focus on risk management and execution. |
+| **Freelance Web Developer & Digital Marketer** | **Self-Employed** | *Aug 2022 – Present* | Building WordPress & Shopify websites, managing e-commerce stores, SEO, Meta Ads, and digital growth campaigns. |
+| **Social Media Marketing Manager & E-Commerce Owner** | **WitacoMart** | *Nov 2023 – Apr 2024* | Managed e-commerce operations, social media marketing, product promotion, and online customer acquisition. |
+| **Blogger & Content Creator** | **Read Upto Infinite** | *Apr 2023 – Mar 2024* | Researched, wrote, optimized, and published content for a US-based online publication. |
+
+### ⚡ Career Focus
+
+```text
+2022                 2023                 2024                 2025                 2026
+ │                     │                    │                    │                    │
+ ├── Web Development ──┼────────────────────┤                    │                    │
+ │                     └── Digital Marketing│                    │                    │
+ │                                          └── Robotics & AI    │                    │
+ │                                                               ├── Proprietary Trading
+ │                                                               │
+ │                                                               └── GuideXTech 🚀
+ │
+ └───────────────────────────────────────────────────────────────────────────────────────►
+                                      BUILD • AUTOMATE • TRADE • INNOVATE
 
 ---
 
