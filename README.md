@@ -19,6 +19,17 @@
 
 ---
 
+## 🎓 Education
+
+| 🎓 Institution | 📚 Qualification | 📅 Period |
+|:---|:---|:---:|
+| **Bahria University Karachi** | **BS Robotics & Intelligent Systems** | *2024 – 2028* |
+| **Aptech Pakistan** | **Diploma in Computer Programming** | *2021 – 2022* |
+| **Govt. Dehli College, Karachi** | **Intermediate (Pre-Engineering)** | *2021 – 2023* |
+| **The Educators** | **Matriculation (Science Group)** | *2007 – 2021* |
+
+---
+
 ## ⚡ What I Do
 
 **1. AI Automation for Businesses**
@@ -91,11 +102,6 @@ flowchart LR
 
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=smrafayshah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrafayshah&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="35%" />
-</div>
-
 ---
 
 ## 🚀 Projects
@@ -132,7 +138,7 @@ flowchart LR
 
 ## 💼 Experience
 
-| 🏢 Role | 📌Organization | 📅 Period | 🚀 What I Did |
+| 🏢 Role | 📌 Organization | 📅 Period | 🚀 What I Did |
 |:---|:---|:---:|:---|
 | **Co-Founder & AI Automation Engineer** | **GuideXTech** | *Nov 2025 – Present* | Building AI-powered business automation systems, WhatsApp chatbots, custom workflows, and integrations for SMBs. |
 | **Proprietary Trader** | **FundingPips** | *Aug 2025 – Present* | Trading financial markets using disciplined, rules-based strategies with a strong focus on risk management and execution. |
