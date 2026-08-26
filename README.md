@@ -115,17 +115,18 @@ flowchart LR
 | Client Websites | WordPress, Shopify, HTML/CSS/JS, PHP |
 
 **Robotics & Embedded Systems**
-| Project | Stack |
-|---|---|
-| 6 DOF Robotic Arm | Arduino, servo control |
-| Gimbal Robot | ESP32, motor stabilization |
-| Home Security Alarm | Arduino, sensors |
-| Sumo Robot | ESP32, C++, IR/ultrasonic sensors |
-| Soccer Bot | Arduino, sensor integration |
-| Obstacle Avoidance Robot | Arduino, ultrasonic sensors |
-| Line-Following Robot | Arduino, PID control |
-| Clap Switch | Arduino, sound sensor |
-| Smart Home Automation | ESP32, Sinric Pro, Google Assistant |
+
+| Project | Complete Hardware / Software Stack | Description |
+| ------------------------ | ----------------------------------- | ----------- |
+| 6 DOF Robotic Arm | Arduino Uno, PCA9685 16-Channel Servo Driver, 6× Servo Motors, HC-05 Bluetooth Module, External 5V Power Supply, C++ | 6-axis robotic manipulator controlled wirelessly through Bluetooth with servo positioning and PCA9685-based control. |
+| Gimbal Robot | ESP32, MPU6050 Gyroscope & Accelerometer, Servo Motors, Motor Driver, Li-ion Battery, C++ | Stabilization system using IMU feedback to maintain orientation and compensate for movement. |
+| Home Security Alarm | Arduino Uno, PIR Motion Sensor, Buzzer, LED, Keypad, LCD Display, Jumper Wires, Breadboard, C++ | Motion-based security system that detects unauthorized movement and triggers an alarm. |
+| Sumo Robot | ESP32, DC Gear Motors, Motor Driver, IR Sensors, Ultrasonic Sensor, Robot Chassis, Wheels, Li-ion Battery, C++ | Autonomous combat robot using sensors to detect opponents, avoid boundaries, and control movement. |
+| Soccer Bot | Arduino Uno, DC Gear Motors, Motor Driver, IR Sensors, Ultrasonic Sensors, Servo Motor, Robot Chassis, Wheels, Battery Pack, C++ | Autonomous robot designed to detect and interact with a soccer ball while navigating the playing field. |
+| Obstacle Avoidance Robot | Arduino Uno, HC-SR04 Ultrasonic Sensor, L298N Motor Driver, DC Gear Motors, Robot Chassis, Wheels, Battery Pack, C++ | Autonomous mobile robot that detects obstacles and dynamically changes direction to avoid collisions. |
+| Line-Following Robot | Arduino Uno, IR Sensor Array, L298N Motor Driver, DC Gear Motors, Robot Chassis, Wheels, Battery Pack, C++, PID Control | Autonomous robot that follows a predefined path using IR sensors and PID-based motor control. |
+| Clap Switch | Arduino Uno, Sound Sensor Module, Relay Module, LED/Bulb, Resistors, Breadboard, Jumper Wires, C++ | Voice/clap-activated switching system that detects sound and controls an electrical load through a relay. |
+| Smart Home Automation | ESP32, Relay Module, Sensors, Wi-Fi, Sinric Pro, Google Assistant, AC/DC Loads, Power Supply, C++ | IoT-based home automation system allowing appliances to be monitored and controlled remotely through voice commands and the internet. |
 
 ---
 
