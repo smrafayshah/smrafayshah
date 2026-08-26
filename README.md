@@ -132,7 +132,7 @@ flowchart LR
 
 ## 💼 Experience
 
-| 🏢 Role | 📌 Organization | 📅 Period | 🚀 What I Did |
+| 🏢 Role | 📌Organization | 📅 Period | 🚀 What I Did |
 |:---|:---|:---:|:---|
 | **Co-Founder & AI Automation Engineer** | **GuideXTech** | *Nov 2025 – Present* | Building AI-powered business automation systems, WhatsApp chatbots, custom workflows, and integrations for SMBs. |
 | **Proprietary Trader** | **FundingPips** | *Aug 2025 – Present* | Trading financial markets using disciplined, rules-based strategies with a strong focus on risk management and execution. |
@@ -143,18 +143,19 @@ flowchart LR
 ### ⚡ Career Focus
 
 ```text
-2022                 2023                 2024                 2025                 2026
- │                     │                    │                    │                    │
- ├── Web Development ──┼────────────────────┤                    │                    │
- │                     └── Digital Marketing│                    │                    │
- │                                          └── Robotics & AI    │                    │
- │                                                               ├── Proprietary Trading
- │                                                               │
- │                                                               └── GuideXTech 🚀
+2022                 2023                   2024                 2025                 2026
+ │                     │                      │                    │                    │
+ ├── Web Development ──┼──────────────────────┤                    │                    │
+ │                     └── Digital Marketing  │                    │                    │
+ │                                            └── Robotics & AI    │                    │
+ │                                                                 ├── Proprietary Trading
+ │                                                                 │
+ │                                                                 └── GuideXTech 🚀
  │
  └───────────────────────────────────────────────────────────────────────────────────────►
                                       BUILD • AUTOMATE • TRADE • INNOVATE
 
+```
 ---
 
 <div align="center">
