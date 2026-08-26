@@ -1,307 +1,152 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12&height=260&section=header&text=RAFAY%20SHAH&fontSize=68&fontAlignY=35&animation=fadeIn&desc=AI%20Automation%20%E2%80%A2%20Web%20Development%20%E2%80%A2%20Proprietary%20Trading%20%E2%80%A2%20Robotics&descAlignY=58&descSize=19&fontColor=FFFFFF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=250&section=header&text=RAFAY%20SHAH&fontSize=66&fontAlignY=35&animation=fadeIn&desc=AI%20Automation%20%E2%80%A2%20Web%20Development%20%E2%80%A2%20Proprietary%20Trading%20%E2%80%A2%20Robotics&descAlignY=58&descSize=18&fontColor=FFFFFF" width="100%" />
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=780&lines=Co-Founder+%40+GuideXTech+%7C+AI+Automation+Agency;BS+Robotics+%26+Intelligent+Systems+%7C+Bahria+University;Proprietary+Trader+%40+FundingPips;Turning+Manual+Businesses+Into+Automated+Ones" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&pause=1000&color=FF6B6B&center=true&vCenter=true&width=780&lines=Co-Founder+%40+GuideXTech;Proprietary+Trader+%40+FundingPips;BS+Robotics+%26+Intelligent+Systems" />
 </div>
 
 <br>
 
-<div align="center">
+## 👤 About Me
 
-[![Email](https://img.shields.io/badge/Email-smrafays%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smrafays@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-smrafayshah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smrafayshah)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR--USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
-[![WhatsApp](https://img.shields.io/badge/GuideXTech-Automation_Agency-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
-
-</div>
-
----
-
-## 🧬 Identity Core
-
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-**Location:** Karachi, Pakistan 🇵🇰
-**Focus:** AI Automation · Full-Stack Web Development · Proprietary Trading · Robotics
-**Currently Building:** [GuideXTech](#) — an AI automation agency helping manual businesses go automated
-
-### 🎓 Education
-
-| Program | Institution | Duration |
-|---|---|---|
-| BS Robotics & Intelligent Systems | Bahria University, Karachi | 2024 – 2028 |
-| Diploma, Computer Programming | Aptech Pakistan | 2022 – 2023 |
-| Intermediate (Pre-Engineering) | Govt. Dehli College, Karachi | 2021 – 2023 |
-
-### 🏆 Certifications
-
-- 🎓 **Diploma in Web Development** — Aptech Computer Education, Karachi (2021–2022)
-
-</td>
-<td width="45%" valign="top">
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" />
-
-</div>
-</td>
-</tr>
-</table>
+- 📍 Based in Karachi, Pakistan
+- 🚀 Co-Founder at **GuideXTech**, an AI automation agency turning manual businesses into automated ones
+- 📈 Proprietary Trader at **FundingPips**, Dubai
+- 💻 Freelance web developer & digital marketer since 2022
+- 🎓 BS Robotics & Intelligent Systems, Bahria University (2024–2028)
+- 🦾 Build hardware too — robots, embedded systems, and automation projects on the side
 
 ---
 
-## 🧠 Professional Profile
+## ⚡ What I Do
 
-I build practical AI-automation and web solutions, actively trade financial markets, and study robotics and intelligent systems — with a strong focus on real-world application.
-
-What makes my work distinctive is the ability to combine **agentic AI systems** (LLM orchestration, WhatsApp-based chatbots, workflow automation) with **hands-on web & e-commerce execution** and a **disciplined, markets-driven mindset** from proprietary trading. I care about turning manual, repetitive business workflows into automated systems that actually save people time.
-
-> 💡 Currently focused on helping small-to-medium businesses — restaurants first — automate customer conversations, bookings, and operations using AI.
-
-### ⚙️ Operating Principles
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-**How I Build**
-- Automation over repetitive manual work
-- Practical, revenue-driving solutions over hype
-- Clean, modular, API-first architecture
-- User-focused design & clear communication
-- Consistency, self-learning & disciplined execution
-
-</td>
-<td width="50%">
-
-**How I Think**
-- Systems thinking over one-off scripts
-- Data-informed decisions (trading discipline applied to business)
-- Ship fast, iterate faster
-- Client relationships built on clarity & trust
-- Growth through reflection and real-world feedback
-
-</td>
-</tr>
-</table>
-
----
-
-## ⚡ What I Do: AI, Web & Markets
+**1. AI Automation for Businesses**
 
 ```mermaid
-graph LR
-    subgraph AI ["🤖 AI AUTOMATION"]
-        A[LLM / OpenAI Integrations] --> B[Workflow Orchestration]
-        B --> C[WhatsApp Cloud API Bots]
-    end
+flowchart LR
+    A[Client Business Problem] --> B[Design Automation Workflow]
+    B --> C[Build with n8n / Make / Zapier]
+    C --> D[Connect WhatsApp Cloud API]
+    D --> E[Automated Customer Chat / Bookings]
+    E --> F[Client Saves Time & Scales]
+```
 
-    subgraph Bridge ["🔄 THE STACK"]
-        C --> D{n8n / Make / Zapier}
-        D --> E[Node.js / MongoDB / React]
-    end
+**2. Web Development & E-Commerce**
 
-    subgraph Biz ["📈 THE BUSINESS LAYER"]
-        E --> F[Client Automation Systems]
-        F --> G[E-Commerce & Web Delivery]
-        G -.-> H[Proprietary Trading Discipline]
-    end
+```mermaid
+flowchart LR
+    A[Client Brief] --> B[Design UI/UX]
+    B --> C[Build on WordPress / Shopify]
+    C --> D[Integrate Payments & SEO]
+    D --> E[Launch & Run Meta Ads]
+    E --> F[Traffic to Conversions]
+```
 
-    style AI fill:#1a1b27,stroke:#00C9FF,stroke-width:2px,color:#fff
-    style Biz fill:#1a1b27,stroke:#92FE9D,stroke-width:2px,color:#fff
-    style Bridge fill:#16161e,stroke:#7aa2f7,stroke-dasharray: 5 5,color:#fff
+**3. Robotics & Embedded Systems**
+
+```mermaid
+flowchart LR
+    A[Idea / Problem] --> B[Design in SolidWorks / AutoCAD]
+    B --> C[Prototype with Arduino / ESP32]
+    C --> D[Write Control Logic in C++]
+    D --> E[Sensor Calibration & Testing]
+    E --> F[Working Autonomous System]
 ```
 
 ---
 
-## 🛠️ Technical War Chest
+## 🛠️ Tech Stack
 
-### Languages
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Languages**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Automation & Backend**
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![WhatsApp API](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Web & E-Commerce**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-0866FF?style=flat-square&logo=meta&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white)
+
+**Robotics & Hardware**
+![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
 
 </div>
 
-### AI & Automation
 <div align="center">
-
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-
-</div>
-
-### Backend & Data
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-### Frontend & CMS / E-Commerce
-<div align="center">
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-
-</div>
-
-### Digital Marketing & Design
-<div align="center">
-
-![Meta Ads](https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-</div>
-
-### Robotics & Embedded Systems
-<div align="center">
-
-![Arduino](https://img.shields.io/badge/Arduino-00878A?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-CAD_Design-FF0000?style=for-the-badge)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
-
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="35%" />
 </div>
 
 ---
 
-## 🚀 Selected Project Portfolio
+## 🚀 Projects
 
-### 🤖 AI Automation & Business Systems
+**AI Automation**
+| Project | Stack |
+|---|---|
+| GuideXTech Automation Suite | n8n, WhatsApp Cloud API, Node.js, MongoDB |
+| WhatsApp AI Chatbots | WhatsApp Cloud API, n8n / Make |
+| Custom Business Integrations | Zapier, Make, REST APIs |
 
-| Project | Domain | Stack | Description |
-|---|---|---|---|
-| **GuideXTech Automation Suite** | AI Automation Agency | OpenAI, n8n, WhatsApp Cloud API, Node.js, MongoDB | End-to-end AI automation systems turning manual business workflows (bookings, support, orders) into automated flows |
-| **WhatsApp AI Chatbots** | Conversational AI | WhatsApp Cloud API, LLM Integrations, n8n/Make | Custom chatbots handling customer queries, orders & bookings for restaurants and SMBs |
-| **Custom Business Integrations** | Workflow Automation | Zapier, Make, REST APIs | Connecting CRMs, POS systems & communication tools into a single automated pipeline |
+**Web & E-Commerce**
+| Project | Stack |
+|---|---|
+| Shopify E-Commerce Store | Shopify, secure payments |
+| SEO Blog Website | WordPress |
+| Client Websites | WordPress, Shopify, HTML/CSS/JS, PHP |
 
-### 🦾 Robotics & Embedded Systems
-
-| Project | Domain | Stack | Description |
-|---|---|---|---|
-| **Smart Home Automation** | IoT / Embedded | ESP32, Sinric Pro, Google Assistant | Voice-controlled system for multiple appliances with manual override |
-| **Sumo Robot** | Competitive Robotics | ESP32, C++, IR/Ultrasonic Sensors | Autonomous sumo-strategy robot with ~90% detection accuracy; custom chassis in SolidWorks |
-| **Line-Following Robot** | Autonomous Robotics | Arduino, PID Control | Real-time calibrated PID control for accurate line tracking |
-
-### 🌐 Web Development & E-Commerce
-
-| Project | Domain | Stack | Description |
-|---|---|---|---|
-| **Ecommerce Store** | Shopify Development | Shopify, Secure Payments | Fully functional store with responsive, conversion-focused design |
-| **Blog Website** | Content / SEO | WordPress | SEO-optimized blog with custom UI and social features |
-| **Client Websites** | Freelance Web Dev | WordPress, Shopify, HTML/CSS/JS, PHP, MySQL | Responsive websites and online stores built for personal & client projects since 2022 |
-
----
-
-## 💼 Experience & Roles
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🚀 Co-Founder — GuideXTech**
-*November 2025 – Present*
-- Building an AI automation agency turning manual businesses into automated ones
-- Delivering AI automation, WhatsApp chatbots, web development & custom integrations
-- Targeting SMBs with repetitive workflows, starting with restaurants
-
-**📈 Proprietary Trader — FundingPips**
-*August 2025 – Present · Dubai, UAE*
-- Actively trading financial markets with disciplined, data-informed execution
-
-</td>
-<td width="50%" valign="top">
-
-**💻 Freelance Web Developer & Digital Marketer**
-*August 2022 – Present · Karachi, Pakistan*
-- Built and maintained WordPress & Shopify websites for personal and client projects
-- Launched and ran e-commerce stores — sourcing, marketing & support
-- Executed Meta Ads campaigns, increasing traffic and conversions
-- Created SEO-optimized content and landing pages
-
-**📢 Social Media Marketing Manager & Ecommerce Owner — WitacoMart**
-*Nov 2023 – Apr 2024*
-
-**✍️ Blogger — Read Upto Infinite**
-*Apr 2023 – Mar 2024*
-
-</td>
-</tr>
-</table>
+**Robotics & Embedded Systems**
+| Project | Stack |
+|---|---|
+| 6 DOF Robotic Arm | Arduino, servo control |
+| Gimbal Robot | ESP32, motor stabilization |
+| Home Security Alarm | Arduino, sensors |
+| Sumo Robot | ESP32, C++, IR/ultrasonic sensors |
+| Soccer Bot | Arduino, sensor integration |
+| Obstacle Avoidance Robot | Arduino, ultrasonic sensors |
+| Line-Following Robot | Arduino, PID control |
+| Clap Switch | Arduino, sound sensor |
+| Smart Home Automation | ESP32, Sinric Pro, Google Assistant |
 
 ---
 
-## 🌍 Technical Domains
+## 💼 Experience
 
-<div align="center">
-
-### 🤖 Agentic AI & Automation
-`LLM Integrations` • `Workflow Orchestration` • `WhatsApp Chatbots` • `n8n / Make / Zapier`
-
-### 🌐 Web & E-Commerce
-`Full-Stack Development` • `WordPress` • `Shopify` • `Responsive Design` • `SEO & Meta Ads`
-
-### 🦾 Robotics Engineering
-`Embedded Systems` • `ESP32 / Arduino` • `PID Control` • `Sensor Integration` • `SolidWorks CAD`
-
-### 📈 Markets
-`Proprietary Trading` • `Risk Management` • `Disciplined Execution`
-
-</div>
-
----
-
-## 📈 Activity & Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=1a1b27&color=00C9FF&line=92FE9D&point=FFFFFF&hide_border=true&area=true" width="100%" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" width="60%" />
-</div>
+- **Co-Founder, GuideXTech** — *Nov 2025–Present, Pakistan* — Building an AI automation agency; delivering automated WhatsApp systems, workflows, and integrations for SMBs, starting with restaurants.
+- **Proprietary Trader, FundingPips** — *Aug 2025–Present, Dubai* — Trading financial markets with disciplined, rules-based execution.
+- **Freelance Web Developer & Digital Marketer** — *Aug 2022–Present, Karachi* — Building WordPress/Shopify sites, running Meta Ads and SEO campaigns, and managing client e-commerce stores.
+- **Social Media Marketing Manager & E-Commerce Owner, WitacoMart** — *Nov 2023–Apr 2024* — Managed store operations and social marketing.
+- **Blogger, Read Upto Infinite** — *Apr 2023–Mar 2024* — Wrote and published content for a US-based blog.
 
 ---
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,20&height=4" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,6,12&height=6" width="100%" />
-
-<br>
-
-### 📡 Let's Connect
+<br><br>
 
 [![Email](https://img.shields.io/badge/Email-smrafays%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smrafays@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-smrafayshah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smrafayshah)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR--USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
-
-<br>
-
-*"Automate the manual. Trade the disciplined. Build the impact."*
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=00C9FF&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-smrafayshah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smrafayshah/)
+[![X](https://img.shields.io/badge/X-smrafayshah-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/smrafayshah)
+[![Instagram](https://img.shields.io/badge/Instagram-_rafay__shah__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rafay_shah_/)
 
 </div>
