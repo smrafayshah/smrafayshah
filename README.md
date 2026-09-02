@@ -17,6 +17,8 @@
 - 🎓 BS Robotics & Intelligent Systems, Bahria University (2024–2028)
 - 🦾 Build hardware too — robots, embedded systems, and automation projects on the side
 
+- Visit My Portfolio: https://rafayshah.netlify.app/
+
 ---
 
 ## 🎓 Education
